@@ -12,6 +12,11 @@ Sources will be shared in the future after additional code review.
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/bf6ecc00-716f-4668-9fa3-0c50720274ac" />
 
 ---
+#### Generated HPL.dat file includes full configuration URL to easily see all inputs used during generation and allow easy modifications.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/661f7df2-3fa2-4484-9c65-3e2ed5c7852a" />
+
+---
 #### Calculate Rpeak and actual efficiency based on hardware configuration information provided.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/844881a5-bcad-4310-ae54-2ece9aeafb26" />
